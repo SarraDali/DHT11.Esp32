@@ -37,6 +37,6 @@ This project uses an Arduino with a DHT11 sensor to measure temperature and humi
 
 ## Usage
 
-**Setup**: Connect the Arduino to power. The DHT11 will measure the temperature and humidity every second.
-**Monitoring**: Open the Serial Monitor to view the readings in real time.
-**LED Indicator**: When the temperature is above the threshold, the LED will light up.
+1. **Setup**: Connect the Arduino to power. The DHT11 will measure the temperature and humidity every second.
+2. **Monitoring**: Open the Serial Monitor to view the readings in real time.
+3. **LED Indicator**: When the temperature is above the threshold, the LED will light up.
